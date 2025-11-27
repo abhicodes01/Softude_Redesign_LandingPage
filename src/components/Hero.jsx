@@ -51,8 +51,8 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-gray-200">
-              Powered by AI & available on any device, our platform makes booking 
-              and management simple.
+              a global technology company known for innovation, AI solutions, 
+              and enterprise engineering.
             </p>
           </motion.div>
 
